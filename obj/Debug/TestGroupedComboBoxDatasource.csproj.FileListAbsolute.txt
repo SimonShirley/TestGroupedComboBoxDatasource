@@ -1,0 +1,14 @@
+C:\Development\TestGroupedComboBoxDatasource\bin\Debug\TestGroupedComboBoxDatasource.exe.config
+C:\Development\TestGroupedComboBoxDatasource\bin\Debug\TestGroupedComboBoxDatasource.exe
+C:\Development\TestGroupedComboBoxDatasource\bin\Debug\TestGroupedComboBoxDatasource.pdb
+C:\Development\TestGroupedComboBoxDatasource\bin\Debug\DropDownControls.dll
+C:\Development\TestGroupedComboBoxDatasource\bin\Debug\DropDownControls.xml
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.csproj.AssemblyReference.cache
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.csproj.SuggestedBindingRedirects.cache
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.Form1.resources
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.Properties.Resources.resources
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.csproj.GenerateResource.cache
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.csproj.CoreCompileInputs.cache
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.csproj.CopyComplete
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.exe
+C:\Development\TestGroupedComboBoxDatasource\obj\Debug\TestGroupedComboBoxDatasource.pdb
